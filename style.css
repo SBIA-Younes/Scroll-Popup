@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap");
+/* @import url("https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap"); */
 
 * {
   margin: 0;
@@ -7,7 +7,7 @@
   font-family: "Montserrat Alternates", sans-serif;
 }
 html {
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 h2 {
   margin: 0 0 20px 20px;
